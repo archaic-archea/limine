@@ -24,8 +24,8 @@
 /bin
 /build
 /toolchain-files
-/limine-efi
-/freestanding-headers
+/nyu-efi
+/freestnd-c-hdrs-0bsd
 /common/flanterm
 /common/libfdt
 /common/lib/stb_image.h.nopatch
